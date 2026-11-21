@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: tanzanian-restitution-roadmap-and-qsf-trust-execution
-  name: Tanzanian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/tanzanian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_tz_001
+    name: Tanzania Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_002
+    name: Tanzania Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_003
+    name: Tanzania Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_004
+    name: Tanzania Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_005
+    name: Tanzania Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_006
+    name: Tanzania Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_007
+    name: Tanzania Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_008
+    name: Tanzania Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_009
+    name: Tanzania Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_010
+    name: Tanzania Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_011
+    name: Tanzania Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_012
+    name: Tanzania Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_013
+    name: Tanzania Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_014
+    name: Tanzania Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_015
+    name: Tanzania Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_016
+    name: Tanzania Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_017
+    name: Tanzania Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_018
+    name: Tanzania Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_019
+    name: Tanzania Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_020
+    name: Tanzania Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_021
+    name: Tanzania Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_022
+    name: Tanzania Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_023
+    name: Tanzania Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_024
+    name: Tanzania Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_025
+    name: Tanzania Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_026
+    name: Tanzania Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_027
+    name: Tanzania Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_028
+    name: Tanzania Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_029
+    name: Tanzania Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_030
+    name: Tanzania Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_031
+    name: Tanzania Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_032
+    name: Tanzania Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_033
+    name: Tanzania Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_034
+    name: Tanzania Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_035
+    name: Tanzania Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_036
+    name: Tanzania Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_037
+    name: Tanzania Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_038
+    name: Tanzania Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_039
+    name: Tanzania Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_040
+    name: Tanzania Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_041
+    name: Tanzania Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_042
+    name: Tanzania Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_043
+    name: Tanzania Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_044
+    name: Tanzania Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_045
+    name: Tanzania Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_046
+    name: Tanzania Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_047
+    name: Tanzania Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_048
+    name: Tanzania Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_049
+    name: Tanzania Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_050
+    name: Tanzania Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_051
+    name: Tanzania Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_052
+    name: Tanzania Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_053
+    name: Tanzania Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_054
+    name: Tanzania Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_055
+    name: Tanzania Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_056
+    name: Tanzania Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_057
+    name: Tanzania Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_058
+    name: Tanzania Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_059
+    name: Tanzania Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_060
+    name: Tanzania Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_061
+    name: Tanzania Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_062
+    name: Tanzania Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_063
+    name: Tanzania Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_064
+    name: Tanzania Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_065
+    name: Tanzania Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_066
+    name: Tanzania Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_067
+    name: Tanzania Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_068
+    name: Tanzania Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_069
+    name: Tanzania Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_070
+    name: Tanzania Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_071
+    name: Tanzania Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_072
+    name: Tanzania Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_073
+    name: Tanzania Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_074
+    name: Tanzania Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_075
+    name: Tanzania Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_076
+    name: Tanzania Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_077
+    name: Tanzania Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_078
+    name: Tanzania Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_079
+    name: Tanzania Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_080
+    name: Tanzania Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_081
+    name: Tanzania Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_082
+    name: Tanzania Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_083
+    name: Tanzania Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_084
+    name: Tanzania Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_085
+    name: Tanzania Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_086
+    name: Tanzania Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_087
+    name: Tanzania Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_088
+    name: Tanzania Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_089
+    name: Tanzania Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_090
+    name: Tanzania Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_091
+    name: Tanzania Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_092
+    name: Tanzania Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_093
+    name: Tanzania Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_094
+    name: Tanzania Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_095
+    name: Tanzania Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_096
+    name: Tanzania Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_097
+    name: Tanzania Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_098
+    name: Tanzania Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_099
+    name: Tanzania Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_100
+    name: Tanzania Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_101
+    name: Tanzania Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_102
+    name: Tanzania Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_103
+    name: Tanzania Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_104
+    name: Tanzania Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_105
+    name: Tanzania Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_106
+    name: Tanzania Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_107
+    name: Tanzania Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_108
+    name: Tanzania Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_109
+    name: Tanzania Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_110
+    name: Tanzania Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_111
+    name: Tanzania Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_112
+    name: Tanzania Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_113
+    name: Tanzania Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_114
+    name: Tanzania Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_115
+    name: Tanzania Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_116
+    name: Tanzania Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_117
+    name: Tanzania Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_118
+    name: Tanzania Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_119
+    name: Tanzania Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_120
+    name: Tanzania Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_121
+    name: Tanzania Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_122
+    name: Tanzania Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_123
+    name: Tanzania Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_124
+    name: Tanzania Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_125
+    name: Tanzania Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_126
+    name: Tanzania Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_127
+    name: Tanzania Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_128
+    name: Tanzania Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_129
+    name: Tanzania Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_130
+    name: Tanzania Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_131
+    name: Tanzania Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_132
+    name: Tanzania Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_133
+    name: Tanzania Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_134
+    name: Tanzania Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_135
+    name: Tanzania Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_136
+    name: Tanzania Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_137
+    name: Tanzania Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_138
+    name: Tanzania Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_139
+    name: Tanzania Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_140
+    name: Tanzania Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_141
+    name: Tanzania Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_142
+    name: Tanzania Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_143
+    name: Tanzania Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_144
+    name: Tanzania Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_145
+    name: Tanzania Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_146
+    name: Tanzania Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_147
+    name: Tanzania Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_148
+    name: Tanzania Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_149
+    name: Tanzania Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_150
+    name: Tanzania Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_151
+    name: Tanzania Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_152
+    name: Tanzania Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_153
+    name: Tanzania Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_154
+    name: Tanzania Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_155
+    name: Tanzania Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_156
+    name: Tanzania Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_157
+    name: Tanzania Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_158
+    name: Tanzania Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_159
+    name: Tanzania Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_160
+    name: Tanzania Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_161
+    name: Tanzania Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_162
+    name: Tanzania Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_163
+    name: Tanzania Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_164
+    name: Tanzania Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_165
+    name: Tanzania Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_166
+    name: Tanzania Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_167
+    name: Tanzania Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_168
+    name: Tanzania Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_169
+    name: Tanzania Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_170
+    name: Tanzania Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_171
+    name: Tanzania Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_172
+    name: Tanzania Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_173
+    name: Tanzania Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_174
+    name: Tanzania Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_175
+    name: Tanzania Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_176
+    name: Tanzania Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_177
+    name: Tanzania Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_178
+    name: Tanzania Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_179
+    name: Tanzania Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_180
+    name: Tanzania Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_181
+    name: Tanzania Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_182
+    name: Tanzania Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_183
+    name: Tanzania Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_184
+    name: Tanzania Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_185
+    name: Tanzania Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_186
+    name: Tanzania Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_187
+    name: Tanzania Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_188
+    name: Tanzania Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_189
+    name: Tanzania Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_190
+    name: Tanzania Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_191
+    name: Tanzania Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_192
+    name: Tanzania Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_193
+    name: Tanzania Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_194
+    name: Tanzania Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_195
+    name: Tanzania Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_196
+    name: Tanzania Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_197
+    name: Tanzania Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_198
+    name: Tanzania Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_199
+    name: Tanzania Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_200
+    name: Tanzania Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_201
+    name: Tanzania Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_202
+    name: Tanzania Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_203
+    name: Tanzania Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_204
+    name: Tanzania Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_205
+    name: Tanzania Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_206
+    name: Tanzania Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_207
+    name: Tanzania Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_208
+    name: Tanzania Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_209
+    name: Tanzania Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_210
+    name: Tanzania Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_211
+    name: Tanzania Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_212
+    name: Tanzania Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_213
+    name: Tanzania Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_214
+    name: Tanzania Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_215
+    name: Tanzania Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_216
+    name: Tanzania Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_217
+    name: Tanzania Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_218
+    name: Tanzania Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_219
+    name: Tanzania Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_220
+    name: Tanzania Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_221
+    name: Tanzania Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_222
+    name: Tanzania Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_223
+    name: Tanzania Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_224
+    name: Tanzania Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_225
+    name: Tanzania Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_226
+    name: Tanzania Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_227
+    name: Tanzania Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_228
+    name: Tanzania Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_229
+    name: Tanzania Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_230
+    name: Tanzania Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_231
+    name: Tanzania Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_232
+    name: Tanzania Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_233
+    name: Tanzania Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_234
+    name: Tanzania Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_235
+    name: Tanzania Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_236
+    name: Tanzania Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_237
+    name: Tanzania Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_238
+    name: Tanzania Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_239
+    name: Tanzania Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_240
+    name: Tanzania Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_241
+    name: Tanzania Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_242
+    name: Tanzania Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_243
+    name: Tanzania Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_244
+    name: Tanzania Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_245
+    name: Tanzania Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_246
+    name: Tanzania Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_247
+    name: Tanzania Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_248
+    name: Tanzania Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_249
+    name: Tanzania Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_250
+    name: Tanzania Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_251
+    name: Tanzania Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tz_252
+    name: Tanzania Skill 252
+    status: ACTIVE_SCAFFOLD
