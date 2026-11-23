@@ -1,0 +1,18 @@
+{
+  "url": "https://www.ohchr.org/en/countries/tanzania",
+  "final_url": "https://www.ohchr.org/en/countries/tanzania",
+  "title": "UN OHCHR Tanzania",
+  "fetched_at": "2026-11-23T08:04:00.181335Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 80020,
+  "sha256": "092f0ff0d6b3546c5201db3a7afcf7d7ff127c511e126d23dc4c1362cbb6b64c",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_BROWSER_CAPTURE_PENDING_LEGAL_REVIEW",
+  "annotation_note": "Browser capture treated as substantive for indexing; content/authenticity remains PENDING_LEGAL_REVIEW."
+}
